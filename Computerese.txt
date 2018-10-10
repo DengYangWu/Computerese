@@ -1,0 +1,65 @@
+应用：
+API : 应用程序编程接口
+APK：Android安装包
+SDK：软件开发工具包
+CPU：中央处理器
+I/O：输入/输出
+GPU：图形处理器
+网络：
+KB：千字节
+MB：兆，百万
+GB：千兆，十亿
+电脑：
+speake：喇叭
+Printer：打印机
+Scanner：扫描仪
+UPS：不断电系统
+HUB：集线器
+WebCam：网络摄影师
+Case：机箱
+Power：电源
+KB：等于1024 Byte
+MB：等于1024 KB
+GB：等于1024 MB
+PC：个人计算机Personal Computer
+CPU：中央处理器Central Processing Unit
+CPU Fan：中央处理器额“散热器”（Fan）
+MB：主机板MotherBoard
+RAM：内存Random Access Memory
+HDD：硬盘Hard Disk Drive
+FDD：软盘Floopy Disk Drive
+CD-ROM：光驱Compact Disk Read Only Memory
+DVD-ROM：DVD光驱Digital Versatile Disk Read Only Memory
+CD-RW：刻录机Compact Disk ReWriter
+VGA：显示卡（显示卡正式用语应为Display Card）
+AUD：声卡（正式语Sound Card）
+LAV：网卡（正式语Network Card）
+MODM：数据卡或调制解调器Modem
+Moniter：屏幕，CRT为显像管屏幕，LCD为液晶屏幕
+USB：通用串行总线Universal Serial Bus，用来连接外围装置
+IEEE1394：新的高速序列总线规格Institute of Electrial and Eectronic Engineers
+Mouse：鼠标，常见接口规格为PS/2与USB
+KB：键盘，常见接口规格为PS/2与USB
+IDE：指IDE接口规格Integerated Device Electronics，IDE接口装置泛指采用IDE接口的各种设备
+SCSI：指SCSI接口规格Small Computer System Interface，SCSI接口装置泛指采用SCSI接口的各种设备
+GHz：（中央处理器运算速度达）Gega赫兹/每秒
+FSB：指“前端总线（Front Side Bus）”频率，以MHz为单位
+ATA：指硬盘传输速率AT
+Attachment，ATA-133表示传输速率为133MB/sec
+AGP：显示总线Accelerated Graphics Port
+PCI：外围装置连接端口Peripheral Component Interconnect
+ATX：指目前电源供应器的规格，也指主机板标准大小尺寸
+BIOS：硬件（输入/输出）基本设置程序Basic Input Output System
+CMOS：储存BIOS基本设置数据的记忆芯片Complementary Metal-Oxide Smemiconductor
+POST：开机检测Power On Self Test
+OS：操作系统Operating System
+Windows：窗口操作系统，图形接口
+DOS：早期文字指令接口的操作系统
+fdisk:"规划硬盘扇区"-DOS指令之一
+format：“硬盘扇区格式化”-DOS指令之一
+setup.exe：“执行安装程序”-DOS指令之一
+Socket：插槽，如CPU插槽种类有SocketA，Socket478等等
+Pin：针脚，如ATA133硬盘排线是80Pin，如PC2700内存模块是168Pin
+Jumper：跳线（短路端子）
+bit：位（0与1这两种电路状态），计算机数据最基本的单位
+Byte：字节，等于8bit
